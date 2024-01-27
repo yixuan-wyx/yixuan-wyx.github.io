@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Yixuan Wang
+Yixuan Wang
+Data
 
 Show Contacts
 
 Email
-richard@example.com
+yixuanmj@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (503) 704-0258
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Brooklyn, New York, USA
 
 # navbar
 
