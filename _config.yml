@@ -1,17 +1,22 @@
-# Site settings
+# # Site settings
 
-title: Your awesome site
-email: yixuanmj@gmail.com
-theme: jekyll-theme-minimal
-description: > # this means to ignore newlines until "baseurl:"
-    Write an awesome description for your new site here.
-    You can edit this line in _config.yml. It will appear
-    in your document head meta (for Google search results)
-    and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://yixuan-wyx.github.io/" # the base hostname & protocol for your site 
-github_username: yixuan-wyx
+# title: Your awesome site
+# email: yixuanmj@gmail.com
+# theme: jekyll-theme-architect
+# description: > # this means to ignore newlines until "baseurl:"
+#     Write an awesome description for your new site here.
+#     You can edit this line in _config.yml. It will appear
+#     in your document head meta (for Google search results)
+#     and in your feed.xml site description.
+#     Yixuan Wang
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "https://yixuan-wyx.github.io/" # the base hostname & protocol for your site 
+# github_username: yixuan-wyx
 
-# Build settings
+# # Build settings
 
-markdown: kramdown
+# markdown: kramdown
+
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
