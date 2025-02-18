@@ -1404,7 +1404,18 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-top: 5px;
   }
 
-  .service-content-box { text-align: left; }
+  .service-content-box { 
+    text-align: left; 
+  }
+
+  .service-content-box a:hover {
+    text-decoration: underline;
+  }
+
+  .service-content-box a {
+    color: wheat;
+    text-decoration: none;
+  }
 
   /* testimonials */
 
